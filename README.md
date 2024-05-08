@@ -11,5 +11,8 @@ A temperature sensor (e.g., KY013) is placed inside the device of interest to me
 ### Arduino Microcontroller: 
 An Arduino board (e.g., Arduino Uno) is used to implement the control algorithm, read and store temperatures with time stamps.
 
+![Example Image](assets/Model.jpg "Our Model")
+
+
 
 
